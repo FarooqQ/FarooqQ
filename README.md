@@ -8,29 +8,21 @@ I build practice and portfolio projects with a focus on clean structure, reusabl
 
 ## Featured Portfolio Project
 
-### CarePulse Flutter Dashboard v1.1.0
+### BinarWell Flutter Dashboard
 
-CarePulse Flutter Dashboard is an inspired Flutter wellness dashboard practice project built with Flutter and Dart.
+BinarWell Flutter Dashboard is an independent Flutter wellness dashboard portfolio project built with Flutter and Dart.
 
-The project started as a polished single-page wellness dashboard and evolved into an Activity-first multi-page dashboard experience in Release 2.
+The project started as a polished single-page wellness dashboard and evolved into a multi-page wellness dashboard experience with activity tracking, wellness goals, responsive layouts, reusable widgets, mock data separation, widget testing, and release documentation.
 
-**Latest Release:** v1.1.0  
 **Project Type:** Flutter UI Practice / Portfolio Project  
 **Tech Stack:** Flutter, Dart  
-**Status:** Public GitHub Release  
-
+**Status:** Public GitHub Repository  
 **Repository:**  
-https://github.com/FarooqQ/carepulse_flutter_dashboard
-
-**Latest Release v1.1.0:**  
-https://github.com/FarooqQ/carepulse_flutter_dashboard/releases/tag/v1.1.0
-
-**Baseline Release v1.0.0:**  
-https://github.com/FarooqQ/carepulse_flutter_dashboard/releases/tag/v1.0.0
+https://github.com/FarooqQ/binarwell_flutter_dashboard
 
 ---
 
-## CarePulse Project Highlights
+## BinarWell Project Highlights
 
 The project focuses on:
 
@@ -41,37 +33,45 @@ The project focuses on:
 - Responsive dashboard layout
 - Multi-page navigation
 - Activity page expansion
+- Wellness Goals page expansion
 - Widget testing
 - README documentation
 - Release documentation
-- GitHub release workflow
+- GitHub-ready project workflow
 - Portfolio-ready project presentation
 
 ---
 
-## Release 2 — Activity-First Multi-Page Expansion
+## Current BinarWell Scope
 
-CarePulse Flutter Dashboard v1.1.0 expands the original dashboard into a multi-page wellness dashboard experience.
+BinarWell Flutter Dashboard is a front-end Flutter dashboard prototype using mock data only.
 
-Release 2 adds:
+It does not include:
 
-- Activity page navigation
-- Sidebar active state
-- DashboardShell page switching
-- Activity feature structure
-- Activity models and mock data
-- Today's Movement card
-- Activity Goals card
-- Hourly Movement chart card
-- Today's Activity Sessions card
-- Intensity Zones card
-- Activity Insights card
-- Responsive review
-- Widget test coverage
-- Release 2 documentation package
-- GitHub Release v1.1.0
+- Backend integration
+- Authentication
+- Real database persistence
+- Real wearable device integration
+- Real medical system integration
+- Real API integration
+- Real report export
 
-> Note: This project uses mock data only. It is not connected to any real medical system, backend, database, wearable device, or API.
+The project is designed as a professional Flutter UI portfolio example focused on dashboard design, reusable components, clean structure, and disciplined release workflow.
+
+---
+
+## Recent Project Work
+
+The latest project work includes:
+
+- Project identity cleanup and rename to BinarWell
+- Repository rename and public link cleanup
+- Flutter package identity update
+- App title and visible brand update
+- Documentation cleanup
+- Local workspace rename
+- Validation with `flutter analyze`
+- Validation with `flutter test`
 
 ---
 
@@ -127,3 +127,11 @@ My workflow usually includes:
 - Responsive layouts
 - Software documentation
 - GitHub portfolio building
+
+---
+
+## Project Identity Note
+
+BinarWell Flutter Dashboard is an independent educational and portfolio project.
+
+It is not affiliated with, endorsed by, or connected to any third-party company or product.
